@@ -1,4 +1,3 @@
-# Book-Recommendation-System-Using-ML
 # Book Recommendation System Using Machine Learning
 
 # Project Overview  
